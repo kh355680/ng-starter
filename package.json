@@ -1,0 +1,22 @@
+{
+  "name": "ng-starter",
+  "version": "1.0.0",
+  "description": "AngularJS Application Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"green\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kh355680/ng-starter.git"
+  },
+  "keywords": [
+    "ng"
+  ],
+  "author": "arif.ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kh355680/ng-starter/issues"
+  },
+  "homepage": "https://github.com/kh355680/ng-starter#readme"
+}
