@@ -1,0 +1,23 @@
+{
+  "name": "ng-starter",
+  "description": "AngularJS Application Boilerplate",
+  "main": "index.js",
+  "authors": [
+    "arif.ahmed"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ng"
+  ],
+  "homepage": "https://github.com/kh355680/ng-starter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
